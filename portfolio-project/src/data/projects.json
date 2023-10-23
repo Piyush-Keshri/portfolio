@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "WordSmith",
+    "imageSrc": "projects/wordsmith.png",
+    "description": "Platform designed for both writers and readers, providing a seamless and secure environment for creating and exploring blog posts.",
+    "skills": ["React", "Express", "Node", "MongoDb"],
+    "demo": "https://github.com/Piyush-Keshri/WordSmith",
+    "source": "https://github.com/Piyush-Keshri/WordSmith"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "InfoFlash",
+    "imageSrc": "projects/infoflash.png",
+    "description": "Comprehensive News Application to stay updated with the world .",
+    "skills": ["React", "MongoDb", "Currents Api"],
+    "demo": "https://info-flash.cyclic.cloud/",
+    "source": "https://github.com/Piyush-Keshri/InfoFlash"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Recipe-Finder",
+    "imageSrc": "projects/forkify.png",
+    "description": "Find any recipe and serving instantly",
+    "skills": ["JavaScript", "Html", "Css"],
+    "demo": "https://forkify-piyush.netlify.app/",
+    "source": "https://github.com/Piyush-Keshri/Recipe-Finder"
   }
 ]

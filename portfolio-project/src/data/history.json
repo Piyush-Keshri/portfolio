@@ -1,0 +1,13 @@
+[
+  {
+    "role": "Web Development Intern",
+    "organisation": "TechMonk",
+    "startDate": "June, 2022",
+    "endDate": "Aug,2022",
+    "experiences": [
+      "Developed Authentication System",
+      "Ensured Secured login and Signup"
+    ],
+    "imageSrc": "history/Techmonk.png"
+  }
+]

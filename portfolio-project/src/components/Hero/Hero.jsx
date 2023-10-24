@@ -6,7 +6,7 @@ const Hero = () => {
         <section className={styles.container}>
             <div className={styles.content}>
                 <h1 className={styles.title}>Hi, I am Piyush</h1>
-                <p className={styles.description}> I am a Fresher Fullstack Developer with hands on Experience in NodeJs and React.
+                <p className={styles.description}> I am a Fresher Web Developer with hands on Experience in NodeJs and React.
                     Reach out to me to learn more.
                 </p>
                 <a href='mailto:piyushkeshri383@gmail.com' className={styles.contactBtn}>Contact Me!</a>
